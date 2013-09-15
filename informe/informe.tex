@@ -1,0 +1,94 @@
+\documentclass[a4paper,8pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{hyperref}
+%opening
+\title{Reconocimiento del hablante}
+\author{ECI Invierno 2013} 
+\date{15/09/2013}
+
+
+\begin{document}
+
+\maketitle
+\vspace{10cm}
+\begin{center}
+
+\begin{tabular}{|c|c|c|}
+\hline
+\hline
+\textbf{LU}&\textbf{Nombre}&\textbf{email}\\
+\hline
+667/06&Daniel Foguelman &dj.foguelman@gmail.com\\
+\hline
+\hline
+\end{tabular}
+\end{center}
+\newpage
+
+\section{DTW}
+En esta secci\'on modifiqu\'e el comportamiento de un algoritmo de reconocimiento para que utilice otra estrategia de clasificaci\'on.
+\subsection{KNN}
+El nuevo algor\'itmo se encuentra implementado en el script KNN.m. La idea es tomar las mejores 10 distancias y de ella quedarse con el n\'umero cuya identificaci\'on tiene mayor frecuencia muestral, es decir la moda.
+
+La implementaci\'on de este algor\'itmo se puede ver en \href{https://github.com/dioh/asr/blob/master/punto_1/modelsTestKNN.m}{este repo}
+
+As\'i mismo en el \href{https://github.com/dioh/asr/blob/master/punto_1/KNN.m}{siguiente archivo} se puede ver que la elecci\'on de archivos de prueba fue para todos los hablantes exceptuando los hablantes n\'umero 7 y 4. Estos hablantes fueron los que utilic\'e para realizar las pruebas.
+
+Luego de correr el clasificador utilizamos $ClassifierStats$ para analizar la matriz de confusi\'on resultante.
+
+La nueva estrategia de clasificaci\'on result\'o en:
+
+\begin{center}
+    
+\begin{tabular}{l|r}
+    \hline \\
+    Acuracy & 82\%\\
+\hline
+
+\end{tabular}
+    
+\end{center}
+
+Esto significa que la nueva estrategia de clasificaci\'on est\'a en un 82 porciento de predicciones correctas. Lo cual es un porcentaje alto en comparaci\'on a la estrategia basada en modelos generados con DTW.
+
+
+\subsection{Entrenamiento hablante espec\'ifico}
+
+Para este experimento volv\'i a utilizar la estrategia de los KNN para la clasificaci\'on pero solo para un hablante. Esto se puede ver \href{https://github.com/dioh/asr/blob/master/punto_1/modelsTestParticular.m}{aqu\'i} .
+
+Para la prueba utilic\'e al hablante n\'umero 2 como test. Utilizando los repeats 1 y 2 como grupos de entrenamiento y la repetici\'on 3 como test.
+
+Las pruebas intra-locutor, es decir, las pruebas de cu\'an bien el reconocedor funciona para las distintas repeticiones resultan en un Acuracy  de 0.24, es decir menos de un 25 porciento de acuracy.
+
+\begin{center}
+    
+\begin{tabular}{l|r}
+    \hline \\
+    Acuracy & 24.24 \%\\
+\hline
+
+\end{tabular}
+    
+\end{center}
+
+\subsection{Comparaci\'on estrategias clasificaci\'on}
+
+Finalmente en el \'ultimo experimento compar\'e la estrategia KNN con la estrategia basada en modelos.
+
+Para esto separ\'e los grupos de entrenamiento en 2 interlocutores:
+
+\begin{itemize}
+\item Para el algor\'itmo visto en clase utilic\'e los mfcc del hablante n\'umero 1.
+\item Para el algor\'itmo KNN utilic\'e los mfcc del hablante n\'umero 2.
+\item Los que  utilic\'e como test son los correspondientes al hablante n\'umero 3.
+\end{itemize}
+
+Los resultados del experimento arrojaron que la estrategia de KNN nos da un Accuracy del $16\%$ mientras que la estrategia basada en modelos mejora esta m\'etrica al darnos un accuracy del $40 \%$.
+
+\section{HMM}
+
+\section{Reconocimiento del hablante}
+
+
+\end{document}

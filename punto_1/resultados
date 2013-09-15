@@ -1,0 +1,811 @@
+Punto 1.i
+Sample: s4f1n-0 Recognized as: 0
+Sample: s4f2n-0 Recognized as: 0
+Sample: s4f3n-0 Recognized as: 0
+Sample: s4f1f-0 Recognized as: 0
+Sample: s4f2f-0 Recognized as: 0
+Sample: s4f3f-0 Recognized as: 0
+Sample: s4f1s-0 Recognized as: 0
+Sample: s4f2s-0 Recognized as: 0
+Sample: s4f3s-0 Recognized as: 0
+Sample: s7m1n-0 Recognized as: 0
+Sample: s7m2n-0 Recognized as: 0
+Sample: s7m3n-0 Recognized as: 0
+Sample: s7m1f-0 Recognized as: 0
+Sample: s7m2f-0 Recognized as: 0
+Sample: s7m3f-0 Recognized as: 0
+Sample: s7m1s-0 Recognized as: 0
+Sample: s7m2s-0 Recognized as: 0
+Sample: s7m3s-0 Recognized as: 0
+Sample: s4f1n-1 Recognized as: 1
+Sample: s4f2n-1 Recognized as: 1
+Sample: s4f3n-1 Recognized as: 3
+Sample: s4f1f-1 Recognized as: 1
+Sample: s4f2f-1 Recognized as: 1
+Sample: s4f3f-1 Recognized as: 1
+Sample: s4f1s-1 Recognized as: 3
+Sample: s4f2s-1 Recognized as: 1
+Sample: s4f3s-1 Recognized as: 1
+Sample: s7m1n-1 Recognized as: 4
+Sample: s7m2n-1 Recognized as: 4
+Sample: s7m3n-1 Recognized as: 4
+Sample: s7m1f-1 Recognized as: 1
+Sample: s7m2f-1 Recognized as: 8
+Sample: s7m3f-1 Recognized as: 1
+Sample: s7m1s-1 Recognized as: 1
+Sample: s7m2s-1 Recognized as: 4
+Sample: s7m3s-1 Recognized as: 1
+Sample: s4f1n-2 Recognized as: 2
+Sample: s4f2n-2 Recognized as: 2
+Sample: s4f3n-2 Recognized as: 2
+Sample: s4f1f-2 Recognized as: 2
+Sample: s4f2f-2 Recognized as: 2
+Sample: s4f3f-2 Recognized as: 2
+Sample: s4f1s-2 Recognized as: 2
+Sample: s4f2s-2 Recognized as: 2
+Sample: s4f3s-2 Recognized as: 2
+Sample: s7m1n-2 Recognized as: 2
+Sample: s7m2n-2 Recognized as: 2
+Sample: s7m3n-2 Recognized as: 2
+Sample: s7m1f-2 Recognized as: 2
+Sample: s7m2f-2 Recognized as: 2
+Sample: s7m3f-2 Recognized as: 2
+Sample: s7m1s-2 Recognized as: 2
+Sample: s7m2s-2 Recognized as: 2
+Sample: s7m3s-2 Recognized as: 2
+Sample: s4f1n-3 Recognized as: 3
+Sample: s4f2n-3 Recognized as: 3
+Sample: s4f3n-3 Recognized as: 3
+Sample: s4f1f-3 Recognized as: 3
+Sample: s4f2f-3 Recognized as: 3
+Sample: s4f3f-3 Recognized as: 3
+Sample: s4f1s-3 Recognized as: 3
+Sample: s4f2s-3 Recognized as: 3
+Sample: s4f3s-3 Recognized as: 3
+Sample: s7m1n-3 Recognized as: 3
+Sample: s7m2n-3 Recognized as: 3
+Sample: s7m3n-3 Recognized as: 3
+Sample: s7m1f-3 Recognized as: 3
+Sample: s7m2f-3 Recognized as: 6
+Sample: s7m3f-3 Recognized as: 3
+Sample: s7m1s-3 Recognized as: 3
+Sample: s7m2s-3 Recognized as: 3
+Sample: s7m3s-3 Recognized as: 3
+Sample: s4f1n-4 Recognized as: 4
+Sample: s4f2n-4 Recognized as: 4
+Sample: s4f3n-4 Recognized as: 4
+Sample: s4f1f-4 Recognized as: 4
+Sample: s4f2f-4 Recognized as: 4
+Sample: s4f3f-4 Recognized as: 4
+Sample: s4f1s-4 Recognized as: 4
+Sample: s4f2s-4 Recognized as: 4
+Sample: s4f3s-4 Recognized as: 4
+Sample: s7m1n-4 Recognized as: 4
+Sample: s7m2n-4 Recognized as: 4
+Sample: s7m3n-4 Recognized as: 4
+Sample: s7m1f-4 Recognized as: 4
+Sample: s7m2f-4 Recognized as: 4
+Sample: s7m3f-4 Recognized as: 4
+Sample: s7m1s-4 Recognized as: 4
+Sample: s7m2s-4 Recognized as: 4
+Sample: s7m3s-4 Recognized as: 4
+Sample: s4f1n-5 Recognized as: 5
+Sample: s4f2n-5 Recognized as: 5
+Sample: s4f3n-5 Recognized as: 5
+Sample: s4f1f-5 Recognized as: 5
+Sample: s4f2f-5 Recognized as: 5
+Sample: s4f3f-5 Recognized as: 5
+Sample: s4f1s-5 Recognized as: 5
+Sample: s4f2s-5 Recognized as: 5
+Sample: s4f3s-5 Recognized as: 5
+Sample: s7m1n-5 Recognized as: 5
+Sample: s7m2n-5 Recognized as: 5
+Sample: s7m3n-5 Recognized as: 5
+Sample: s7m1f-5 Recognized as: 5
+Sample: s7m2f-5 Recognized as: 5
+Sample: s7m3f-5 Recognized as: 5
+Sample: s7m1s-5 Recognized as: 5
+Sample: s7m2s-5 Recognized as: 5
+Sample: s7m3s-5 Recognized as: 5
+Sample: s4f1n-6 Recognized as: 6
+Sample: s4f2n-6 Recognized as: 6
+Sample: s4f3n-6 Recognized as: 6
+Sample: s4f1f-6 Recognized as: 6
+Sample: s4f2f-6 Recognized as: 6
+Sample: s4f3f-6 Recognized as: 3
+Sample: s4f1s-6 Recognized as: 6
+Sample: s4f2s-6 Recognized as: 6
+Sample: s4f3s-6 Recognized as: 6
+Sample: s7m1n-6 Recognized as: 6
+Sample: s7m2n-6 Recognized as: 6
+Sample: s7m3n-6 Recognized as: 6
+Sample: s7m1f-6 Recognized as: 6
+Sample: s7m2f-6 Recognized as: 6
+Sample: s7m3f-6 Recognized as: 6
+Sample: s7m1s-6 Recognized as: 6
+Sample: s7m2s-6 Recognized as: 6
+Sample: s7m3s-6 Recognized as: 6
+Sample: s4f1n-7 Recognized as: 7
+Sample: s4f2n-7 Recognized as: 7
+Sample: s4f3n-7 Recognized as: 7
+Sample: s4f1f-7 Recognized as: 7
+Sample: s4f2f-7 Recognized as: 7
+Sample: s4f3f-7 Recognized as: 7
+Sample: s4f1s-7 Recognized as: 7
+Sample: s4f2s-7 Recognized as: 7
+Sample: s4f3s-7 Recognized as: 7
+Sample: s7m1n-7 Recognized as: 7
+Sample: s7m2n-7 Recognized as: 7
+Sample: s7m3n-7 Recognized as: 7
+Sample: s7m1f-7 Recognized as: 10
+Sample: s7m2f-7 Recognized as: 7
+Sample: s7m3f-7 Recognized as: 10
+Sample: s7m1s-7 Recognized as: 10
+Sample: s7m2s-7 Recognized as: 7
+Sample: s7m3s-7 Recognized as: 7
+Sample: s4f1n-8 Recognized as: 2
+Sample: s4f2n-8 Recognized as: 2
+Sample: s4f3n-8 Recognized as: 8
+Sample: s4f1f-8 Recognized as: 8
+Sample: s4f2f-8 Recognized as: 2
+Sample: s4f3f-8 Recognized as: 2
+Sample: s4f1s-8 Recognized as: 8
+Sample: s4f2s-8 Recognized as: 2
+Sample: s4f3s-8 Recognized as: 2
+Sample: s7m1n-8 Recognized as: 8
+Sample: s7m2n-8 Recognized as: 8
+Sample: s7m3n-8 Recognized as: 8
+Sample: s7m1f-8 Recognized as: 8
+Sample: s7m2f-8 Recognized as: 8
+Sample: s7m3f-8 Recognized as: 4
+Sample: s7m1s-8 Recognized as: 8
+Sample: s7m2s-8 Recognized as: 8
+Sample: s7m3s-8 Recognized as: 8
+Sample: s4f1n-9 Recognized as: 9
+Sample: s4f2n-9 Recognized as: 9
+Sample: s4f3n-9 Recognized as: 3
+Sample: s4f1f-9 Recognized as: 9
+Sample: s4f2f-9 Recognized as: 9
+Sample: s4f3f-9 Recognized as: 3
+Sample: s4f1s-9 Recognized as: 9
+Sample: s4f2s-9 Recognized as: 9
+Sample: s4f3s-9 Recognized as: 9
+Sample: s7m1n-9 Recognized as: 6
+Sample: s7m2n-9 Recognized as: 6
+Sample: s7m3n-9 Recognized as: 9
+Sample: s7m1f-9 Recognized as: 6
+Sample: s7m2f-9 Recognized as: 9
+Sample: s7m3f-9 Recognized as: 6
+Sample: s7m1s-9 Recognized as: 6
+Sample: s7m2s-9 Recognized as: 9
+Sample: s7m3s-9 Recognized as: 9
+Sample: s4f1n-10 Recognized as: 7
+Sample: s4f2n-10 Recognized as: 7
+Sample: s4f3n-10 Recognized as: 10
+Sample: s4f1f-10 Recognized as: 10
+Sample: s4f2f-10 Recognized as: 3
+Sample: s4f3f-10 Recognized as: 7
+Sample: s4f1s-10 Recognized as: 10
+Sample: s4f2s-10 Recognized as: 7
+Sample: s4f3s-10 Recognized as: 5
+Sample: s7m1n-10 Recognized as: 7
+Sample: s7m2n-10 Recognized as: 10
+Sample: s7m3n-10 Recognized as: 10
+Sample: s7m1f-10 Recognized as: 10
+Sample: s7m2f-10 Recognized as: 10
+Sample: s7m3f-10 Recognized as: 10
+Sample: s7m1s-10 Recognized as: 10
+Sample: s7m2s-10 Recognized as: 7
+Sample: s7m3s-10 Recognized as: 10
+
+ans =
+
+    18     0     0     0     0     0     0     0     0     0     0
+     0    11     0     2     4     0     0     0     1     0     0
+     0     0    18     0     0     0     0     0     0     0     0
+     0     0     0    17     0     0     1     0     0     0     0
+     0     0     0     0    18     0     0     0     0     0     0
+     0     0     0     0     0    18     0     0     0     0     0
+     0     0     0     1     0     0    17     0     0     0     0
+     0     0     0     0     0     0     0    15     0     0     3
+     0     0     6     0     1     0     0     0    11     0     0
+     0     0     0     2     0     0     5     0     0    11     0
+     0     0     0     1     0     1     0     6     0     0    10
+
+[precision, recall, specificity, accuracy] = ClassifierStats(ans)
+
+precision =
+
+    1.0000
+    0.6111
+    1.0000
+    0.9444
+    1.0000
+    1.0000
+    0.9444
+    0.8333
+    0.6111
+    0.6111
+    0.5556
+
+
+recall =
+
+    1.0000
+    1.0000
+    0.7500
+    0.7391
+    0.7826
+    0.9474
+    0.7391
+    0.7143
+    0.9167
+    1.0000
+    0.7692
+
+
+specificity =
+
+    1.0000
+    0.9626
+    1.0000
+    0.9943
+    1.0000
+    1.0000
+    0.9943
+    0.9831
+    0.9624
+    0.9626
+    0.9568
+
+
+accuracy =
+
+    0.8283
+
+
+Punto 1.ii
+-------------------------------
+Sample: s2f3n-0 Recognized as: 0
+Sample: s2f3f-0 Recognized as: 7
+Sample: s2f3s-0 Recognized as: 7
+Sample: s2f3n-1 Recognized as: 4
+Sample: s2f3f-1 Recognized as: 6
+Sample: s2f3s-1 Recognized as: 4
+Sample: s2f3n-2 Recognized as: 4
+Sample: s2f3f-2 Recognized as: 5
+Sample: s2f3s-2 Recognized as: 4
+Sample: s2f3n-3 Recognized as: 0
+Sample: s2f3f-3 Recognized as: 9
+Sample: s2f3s-3 Recognized as: 0
+Sample: s2f3n-4 Recognized as: 4
+Sample: s2f3f-4 Recognized as: 9
+Sample: s2f3s-4 Recognized as: 4
+Sample: s2f3n-5 Recognized as: 5
+Sample: s2f3f-5 Recognized as: 9
+Sample: s2f3s-5 Recognized as: 5
+Sample: s2f3n-6 Recognized as: 7
+Sample: s2f3f-6 Recognized as: 6
+Sample: s2f3s-6 Recognized as: 7
+Sample: s2f3n-7 Recognized as: 7
+Sample: s2f3f-7 Recognized as: 10
+Sample: s2f3s-7 Recognized as: 7
+Sample: s2f3n-8 Recognized as: 4
+Sample: s2f3f-8 Recognized as: 5
+Sample: s2f3s-8 Recognized as: 4
+Sample: s2f3n-9 Recognized as: 4
+Sample: s2f3f-9 Recognized as: 6
+Sample: s2f3s-9 Recognized as: 4
+Sample: s2f3n-10 Recognized as: 7
+Sample: s2f3f-10 Recognized as: 5
+Sample: s2f3s-10 Recognized as: 6
+
+ans =
+
+     1     0     0     0     0     0     0     2     0     0     0
+     0     0     0     0     2     0     1     0     0     0     0
+     0     0     0     0     2     1     0     0     0     0     0
+     2     0     0     0     0     0     0     0     0     1     0
+     0     0     0     0     2     0     0     0     0     1     0
+     0     0     0     0     0     2     0     0     0     1     0
+     0     0     0     0     0     0     1     2     0     0     0
+     0     0     0     0     0     0     0     2     0     0     1
+     0     0     0     0     2     1     0     0     0     0     0
+     0     0     0     0     2     0     1     0     0     0     0
+     0     0     0     0     0     1     1     1     0     0     0
+
+>> ClassifierStats
+Error using ClassifierStats (line 24)
+Not enough input arguments.
+ 
+>> [precision, recall, specificity, accuracy] = ClassifierStats(ans)
+
+precision =
+
+    0.3333
+         0
+         0
+         0
+    0.6667
+    0.6667
+    0.3333
+    0.6667
+         0
+         0
+         0
+
+
+recall =
+
+    0.3333
+       NaN
+       NaN
+       NaN
+    0.2000
+    0.4000
+    0.2500
+    0.2857
+       NaN
+         0
+         0
+
+
+specificity =
+
+    0.9333
+    0.9091
+    0.9091
+    0.9091
+    0.9565
+    0.9643
+    0.9310
+    0.9615
+    0.9091
+    0.9000
+    0.9062
+
+
+accuracy =
+
+    0.2424
+
+>> modelsTestParticular
+Sample: s2f3n-0 Recognized as: 0
+Sample: s2f3f-0 Recognized as: 7
+Sample: s2f3s-0 Recognized as: 7
+Sample: s2f3n-1 Recognized as: 4
+Sample: s2f3f-1 Recognized as: 6
+Sample: s2f3s-1 Recognized as: 4
+Sample: s2f3n-2 Recognized as: 4
+Sample: s2f3f-2 Recognized as: 5
+Sample: s2f3s-2 Recognized as: 4
+Sample: s2f3n-3 Recognized as: 0
+Sample: s2f3f-3 Recognized as: 9
+Sample: s2f3s-3 Recognized as: 0
+Sample: s2f3n-4 Recognized as: 4
+Sample: s2f3f-4 Recognized as: 9
+Sample: s2f3s-4 Recognized as: 4
+Sample: s2f3n-5 Recognized as: 5
+Sample: s2f3f-5 Recognized as: 9
+Sample: s2f3s-5 Recognized as: 5
+Sample: s2f3n-6 Recognized as: 7
+Sample: s2f3f-6 Recognized as: 6
+Sample: s2f3s-6 Recognized as: 7
+Sample: s2f3n-7 Recognized as: 7
+Sample: s2f3f-7 Recognized as: 10
+Sample: s2f3s-7 Recognized as: 7
+Sample: s2f3n-8 Recognized as: 4
+Sample: s2f3f-8 Recognized as: 5
+Sample: s2f3s-8 Recognized as: 4
+Sample: s2f3n-9 Recognized as: 4
+Sample: s2f3f-9 Recognized as: 6
+Sample: s2f3s-9 Recognized as: 4
+Sample: s2f3n-10 Recognized as: 7
+Sample: s2f3f-10 Recognized as: 5
+Sample: s2f3s-10 Recognized as: 6
+
+ans =
+
+     1     0     0     0     0     0     0     2     0     0     0
+     0     0     0     0     2     0     1     0     0     0     0
+     0     0     0     0     2     1     0     0     0     0     0
+     2     0     0     0     0     0     0     0     0     1     0
+     0     0     0     0     2     0     0     0     0     1     0
+     0     0     0     0     0     2     0     0     0     1     0
+     0     0     0     0     0     0     1     2     0     0     0
+     0     0     0     0     0     0     0     2     0     0     1
+     0     0     0     0     2     1     0     0     0     0     0
+     0     0     0     0     2     0     1     0     0     0     0
+     0     0     0     0     0     1     1     1     0     0     0
+
+>> ClassifierStats
+Error using ClassifierStats (line 24)
+Not enough input arguments.
+ 
+>> [precision, recall, specificity, accuracy] = ClassifierStats(ans)
+
+precision =
+
+    0.3333
+         0
+         0
+         0
+    0.6667
+    0.6667
+    0.3333
+    0.6667
+         0
+         0
+         0
+
+
+recall =
+
+    0.3333
+       NaN
+       NaN
+       NaN
+    0.2000
+    0.4000
+    0.2500
+    0.2857
+       NaN
+         0
+         0
+
+
+specificity =
+
+    0.9333
+    0.9091
+    0.9091
+    0.9091
+    0.9565
+    0.9643
+    0.9310
+    0.9615
+    0.9091
+    0.9000
+    0.9062
+
+
+accuracy =
+
+    0.2424
+
+Punto 1.ii_KNN:
+>> modelsTestGeneral('train_3_knn/', 'test_3/');
+Sample: s3f1n-0 Recognized as: 4
+Sample: s3f2n-0 Recognized as: 4
+Sample: s3f3n-0 Recognized as: 4
+Sample: s3f1f-0 Recognized as: 9
+Sample: s3f2f-0 Recognized as: 4
+Sample: s3f3f-0 Recognized as: 9
+Sample: s3f1s-0 Recognized as: 7
+Sample: s3f2s-0 Recognized as: 4
+Sample: s3f3s-0 Recognized as: 4
+Sample: s3f1n-1 Recognized as: 2
+Sample: s3f2n-1 Recognized as: 4
+Sample: s3f3n-1 Recognized as: 4
+Sample: s3f1f-1 Recognized as: 9
+Sample: s3f2f-1 Recognized as: 4
+Sample: s3f3f-1 Recognized as: 9
+Sample: s3f1s-1 Recognized as: 4
+Sample: s3f2s-1 Recognized as: 9
+Sample: s3f3s-1 Recognized as: 4
+Sample: s3f1n-2 Recognized as: 4
+Sample: s3f2n-2 Recognized as: 4
+Sample: s3f3n-2 Recognized as: 4
+Sample: s3f1f-2 Recognized as: 4
+Sample: s3f2f-2 Recognized as: 4
+Sample: s3f3f-2 Recognized as: 4
+Sample: s3f1s-2 Recognized as: 4
+Sample: s3f2s-2 Recognized as: 4
+Sample: s3f3s-2 Recognized as: 4
+Sample: s3f1n-3 Recognized as: 9
+Sample: s3f2n-3 Recognized as: 4
+Sample: s3f3n-3 Recognized as: 7
+Sample: s3f1f-3 Recognized as: 4
+Sample: s3f2f-3 Recognized as: 4
+Sample: s3f3f-3 Recognized as: 5
+Sample: s3f1s-3 Recognized as: 9
+Sample: s3f2s-3 Recognized as: 5
+Sample: s3f3s-3 Recognized as: 5
+Sample: s3f1n-4 Recognized as: 4
+Sample: s3f2n-4 Recognized as: 4
+Sample: s3f3n-4 Recognized as: 4
+Sample: s3f1f-4 Recognized as: 4
+Sample: s3f2f-4 Recognized as: 4
+Sample: s3f3f-4 Recognized as: 4
+Sample: s3f1s-4 Recognized as: 4
+Sample: s3f2s-4 Recognized as: 4
+Sample: s3f3s-4 Recognized as: 4
+Sample: s3f1n-5 Recognized as: 1
+Sample: s3f2n-5 Recognized as: 4
+Sample: s3f3n-5 Recognized as: 4
+Sample: s3f1f-5 Recognized as: 1
+Sample: s3f2f-5 Recognized as: 1
+Sample: s3f3f-5 Recognized as: 5
+Sample: s3f1s-5 Recognized as: 4
+Sample: s3f2s-5 Recognized as: 4
+Sample: s3f3s-5 Recognized as: 4
+Sample: s3f1n-6 Recognized as: 1
+Sample: s3f2n-6 Recognized as: 1
+Sample: s3f3n-6 Recognized as: 9
+Sample: s3f1f-6 Recognized as: 9
+Sample: s3f2f-6 Recognized as: 9
+Sample: s3f3f-6 Recognized as: 9
+Sample: s3f1s-6 Recognized as: 7
+Sample: s3f2s-6 Recognized as: 7
+Sample: s3f3s-6 Recognized as: 9
+Sample: s3f1n-7 Recognized as: 5
+Sample: s3f2n-7 Recognized as: 5
+Sample: s3f3n-7 Recognized as: 4
+Sample: s3f1f-7 Recognized as: 5
+Sample: s3f2f-7 Recognized as: 10
+Sample: s3f3f-7 Recognized as: 5
+Sample: s3f1s-7 Recognized as: 1
+Sample: s3f2s-7 Recognized as: 10
+Sample: s3f3s-7 Recognized as: 0
+Sample: s3f1n-8 Recognized as: 2
+Sample: s3f2n-8 Recognized as: 4
+Sample: s3f3n-8 Recognized as: 4
+Sample: s3f1f-8 Recognized as: 4
+Sample: s3f2f-8 Recognized as: 4
+Sample: s3f3f-8 Recognized as: 4
+Sample: s3f1s-8 Recognized as: 4
+Sample: s3f2s-8 Recognized as: 4
+Sample: s3f3s-8 Recognized as: 4
+Sample: s3f1n-9 Recognized as: 7
+Sample: s3f2n-9 Recognized as: 1
+Sample: s3f3n-9 Recognized as: 4
+Sample: s3f1f-9 Recognized as: 1
+Sample: s3f2f-9 Recognized as: 9
+Sample: s3f3f-9 Recognized as: 10
+Sample: s3f1s-9 Recognized as: 1
+Sample: s3f2s-9 Recognized as: 4
+Sample: s3f3s-9 Recognized as: 4
+Sample: s3f1n-10 Recognized as: 5
+Sample: s3f2n-10 Recognized as: 5
+Sample: s3f3n-10 Recognized as: 10
+Sample: s3f1f-10 Recognized as: 10
+Sample: s3f2f-10 Recognized as: 1
+Sample: s3f3f-10 Recognized as: 10
+Sample: s3f1s-10 Recognized as: 5
+Sample: s3f2s-10 Recognized as: 10
+Sample: s3f3s-10 Recognized as: 10
+
+
+ans =
+
+     0     0     0     0     6     0     0     1     0     2     0
+     0     0     1     0     5     0     0     0     0     3     0
+     0     0     0     0     9     0     0     0     0     0     0
+     0     0     0     0     3     3     0     1     0     2     0
+     0     0     0     0     9     0     0     0     0     0     0
+     0     3     0     0     5     1     0     0     0     0     0
+     0     2     0     0     0     0     0     2     0     5     0
+     1     1     0     0     1     4     0     0     0     0     2
+     0     0     1     0     8     0     0     0     0     0     0
+     0     3     0     0     3     0     0     1     0     1     1
+     0     1     0     0     0     3     0     0     0     0     5
+
+
+>> [precision, recall, specificity, accuracy] = ClassifierStats(ans)
+
+precision =
+
+         0
+         0
+         0
+         0
+    1.0000
+    0.1111
+         0
+         0
+         0
+    0.1111
+    0.5556
+
+
+recall =
+
+         0
+         0
+         0
+       NaN
+    0.1837
+    0.0909
+       NaN
+         0
+       NaN
+    0.0769
+    0.6250
+
+
+specificity =
+
+    0.9082
+    0.8989
+    0.9072
+    0.9091
+    1.0000
+    0.9091
+    0.9091
+    0.9043
+    0.9091
+    0.9070
+    0.9560
+
+
+accuracy =
+
+    0.1616
+
+Punto 3.iii - taller
+>> modelsTest('../punto_1/test_3/', '../punto_1/models/')
+Sample: s3f1n-0 Recognized as: 3
+Sample: s3f2n-0 Recognized as: 2
+Sample: s3f3n-0 Recognized as: 5
+Sample: s3f1f-0 Recognized as: 6
+Sample: s3f2f-0 Recognized as: 6
+Sample: s3f3f-0 Recognized as: 6
+Sample: s3f1s-0 Recognized as: 5
+Sample: s3f2s-0 Recognized as: 2
+Sample: s3f3s-0 Recognized as: 2
+Sample: s3f1n-1 Recognized as: 2
+Sample: s3f2n-1 Recognized as: 2
+Sample: s3f3n-1 Recognized as: 2
+Sample: s3f1f-1 Recognized as: 2
+Sample: s3f2f-1 Recognized as: 2
+Sample: s3f3f-1 Recognized as: 2
+Sample: s3f1s-1 Recognized as: 2
+Sample: s3f2s-1 Recognized as: 2
+Sample: s3f3s-1 Recognized as: 2
+Sample: s3f1n-2 Recognized as: 2
+Sample: s3f2n-2 Recognized as: 2
+Sample: s3f3n-2 Recognized as: 2
+Sample: s3f1f-2 Recognized as: 2
+Sample: s3f2f-2 Recognized as: 2
+Sample: s3f3f-2 Recognized as: 2
+Sample: s3f1s-2 Recognized as: 2
+Sample: s3f2s-2 Recognized as: 2
+Sample: s3f3s-2 Recognized as: 2
+Sample: s3f1n-3 Recognized as: 6
+Sample: s3f2n-3 Recognized as: 6
+Sample: s3f3n-3 Recognized as: 6
+Sample: s3f1f-3 Recognized as: 3
+Sample: s3f2f-3 Recognized as: 6
+Sample: s3f3f-3 Recognized as: 3
+Sample: s3f1s-3 Recognized as: 6
+Sample: s3f2s-3 Recognized as: 6
+Sample: s3f3s-3 Recognized as: 6
+Sample: s3f1n-4 Recognized as: 4
+Sample: s3f2n-4 Recognized as: 2
+Sample: s3f3n-4 Recognized as: 2
+Sample: s3f1f-4 Recognized as: 4
+Sample: s3f2f-4 Recognized as: 4
+Sample: s3f3f-4 Recognized as: 4
+Sample: s3f1s-4 Recognized as: 2
+Sample: s3f2s-4 Recognized as: 4
+Sample: s3f3s-4 Recognized as: 4
+Sample: s3f1n-5 Recognized as: 5
+Sample: s3f2n-5 Recognized as: 5
+Sample: s3f3n-5 Recognized as: 5
+Sample: s3f1f-5 Recognized as: 2
+Sample: s3f2f-5 Recognized as: 5
+Sample: s3f3f-5 Recognized as: 2
+Sample: s3f1s-5 Recognized as: 5
+Sample: s3f2s-5 Recognized as: 2
+Sample: s3f3s-5 Recognized as: 2
+Sample: s3f1n-6 Recognized as: 6
+Sample: s3f2n-6 Recognized as: 6
+Sample: s3f3n-6 Recognized as: 6
+Sample: s3f1f-6 Recognized as: 6
+Sample: s3f2f-6 Recognized as: 6
+Sample: s3f3f-6 Recognized as: 6
+Sample: s3f1s-6 Recognized as: 6
+Sample: s3f2s-6 Recognized as: 6
+Sample: s3f3s-6 Recognized as: 6
+Sample: s3f1n-7 Recognized as: 10
+Sample: s3f2n-7 Recognized as: 5
+Sample: s3f3n-7 Recognized as: 5
+Sample: s3f1f-7 Recognized as: 10
+Sample: s3f2f-7 Recognized as: 5
+Sample: s3f3f-7 Recognized as: 10
+Sample: s3f1s-7 Recognized as: 5
+Sample: s3f2s-7 Recognized as: 10
+Sample: s3f3s-7 Recognized as: 10
+Sample: s3f1n-8 Recognized as: 2
+Sample: s3f2n-8 Recognized as: 2
+Sample: s3f3n-8 Recognized as: 2
+Sample: s3f1f-8 Recognized as: 2
+Sample: s3f2f-8 Recognized as: 2
+Sample: s3f3f-8 Recognized as: 2
+Sample: s3f1s-8 Recognized as: 2
+Sample: s3f2s-8 Recognized as: 2
+Sample: s3f3s-8 Recognized as: 2
+Sample: s3f1n-9 Recognized as: 5
+Sample: s3f2n-9 Recognized as: 6
+Sample: s3f3n-9 Recognized as: 6
+Sample: s3f1f-9 Recognized as: 2
+Sample: s3f2f-9 Recognized as: 5
+Sample: s3f3f-9 Recognized as: 6
+Sample: s3f1s-9 Recognized as: 5
+Sample: s3f2s-9 Recognized as: 2
+Sample: s3f3s-9 Recognized as: 2
+Sample: s3f1n-10 Recognized as: 10
+Sample: s3f2n-10 Recognized as: 10
+Sample: s3f3n-10 Recognized as: 10
+Sample: s3f1f-10 Recognized as: 10
+Sample: s3f2f-10 Recognized as: 10
+Sample: s3f3f-10 Recognized as: 10
+Sample: s3f1s-10 Recognized as: 10
+Sample: s3f2s-10 Recognized as: 10
+Sample: s3f3s-10 Recognized as: 10
+
+ans =
+
+     0     0     3     1     0     2     3     0     0     0     0
+     0     0     9     0     0     0     0     0     0     0     0
+     0     0     9     0     0     0     0     0     0     0     0
+     0     0     0     2     0     0     7     0     0     0     0
+     0     0     3     0     6     0     0     0     0     0     0
+     0     0     4     0     0     5     0     0     0     0     0
+     0     0     0     0     0     0     9     0     0     0     0
+     0     0     0     0     0     4     0     0     0     0     5
+     0     0     9     0     0     0     0     0     0     0     0
+     0     0     3     0     0     3     3     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0     9
+
+>> ClassifierStats
+>> [precision, recall, specificity, accuracy] = ClassifierStats(ans)
+
+precision =
+
+         0
+         0
+    1.0000
+    0.2222
+    0.6667
+    0.5556
+    1.0000
+         0
+         0
+         0
+    1.0000
+
+
+recall =
+
+       NaN
+       NaN
+    0.2250
+    0.6667
+    1.0000
+    0.3571
+    0.4091
+       NaN
+       NaN
+       NaN
+    0.6429
+
+
+specificity =
+
+    0.9091
+    0.9091
+    1.0000
+    0.9271
+    0.9677
+    0.9529
+    1.0000
+    0.9091
+    0.9091
+    0.9091
+    1.0000
+
+
+accuracy =
+
+    0.4040
