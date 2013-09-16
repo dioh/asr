@@ -1,0 +1,88 @@
+s1f1f-0  Correct - Expected cero, got cero
+----- 9% COMPLETE -----
+s1m1f-8  Correct - Expected ocho, got ocho
+----- 18% COMPLETE -----
+s1m3f-1  Correct - Expected uno, got uno
+----- 27% COMPLETE -----
+s2m2n-4  Incorrect - Expected ocho, got cuatro
+----- 36% COMPLETE -----
+s2m2s-10  Incorrect - Expected ocho, got diez
+----- 45% COMPLETE -----
+s3f1s-6  Correct - Expected seis, got seis
+----- 55% COMPLETE -----
+s3f2n-5  Correct - Expected cinco, got cinco
+----- 64% COMPLETE -----
+s3m1f-2  Correct - Expected dos, got dos
+----- 73% COMPLETE -----
+s3m1s-3  Incorrect - Expected diez, got tres
+----- 82% COMPLETE -----
+s4f3f-7  Correct - Expected siete, got siete
+----- 91% COMPLETE -----
+s5m1s-9  Incorrect - Expected siete, got nueve
+----- 100% COMPLETE -----
+Percent Correct: 63.6364
+
+ans =
+
+     1     0     0     0     0     0     0     0     0     0     0
+     0     1     0     0     0     0     0     0     0     0     0
+     0     0     1     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     0     0     0     1
+     0     0     0     0     0     0     0     0     1     0     0
+     0     0     0     0     0     1     0     0     0     0     0
+     0     0     0     0     0     0     1     0     0     0     0
+     0     0     0     0     0     0     0     1     0     0     0
+     0     0     0     0     0     0     0     0     1     0     0
+     0     0     0     0     0     0     0     1     0     0     0
+     0     0     0     0     0     0     0     0     1     0     0
+
+>> [precision, recall, specificity, accuracy] = ClassifierStats(ans)
+
+precision =
+
+     1
+     1
+     1
+     0
+     0
+     1
+     1
+     1
+     1
+     0
+     0
+
+
+recall =
+
+    1.0000
+    1.0000
+    1.0000
+       NaN
+       NaN
+    1.0000
+    1.0000
+    0.5000
+    0.3333
+       NaN
+         0
+
+
+specificity =
+
+    1.0000
+    1.0000
+    1.0000
+    0.9091
+    0.9091
+    1.0000
+    1.0000
+    1.0000
+    1.0000
+    0.9091
+    0.9000
+
+
+accuracy =
+
+    0.6364
